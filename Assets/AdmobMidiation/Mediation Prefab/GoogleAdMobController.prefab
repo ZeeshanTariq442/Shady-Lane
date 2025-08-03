@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1850866895025666248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1850866895025666250}
+  - component: {fileID: -1889120888636132008}
+  - component: {fileID: 1621518593652561575}
+  - component: {fileID: 1850866895025666249}
+  m_Layer: 0
+  m_Name: GoogleAdMobController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1850866895025666250
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1850866895025666248}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-1889120888636132008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1850866895025666248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdfe76ae246364ce8825eaf28c428dfc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Game_Mode: 1
+  IsSdkTestingEnvironment: 0
+--- !u!114 &1621518593652561575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1850866895025666248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e7ab36905174532aa261f25147b411, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AdSdkName: admob
+  AdsStrategy:
+  - StartingLevel: 0
+    EndLevel: 4
+    NoOfSkips: 3
+  - StartingLevel: 5
+    EndLevel: 10
+    NoOfSkips: 2
+  - StartingLevel: 11
+    EndLevel: 15
+    NoOfSkips: 1
+  - StartingLevel: 16
+    EndLevel: 2000
+    NoOfSkips: 0
+  GDPRUIPanel: {fileID: 0}
+  LevelsSinceLastAdPlayed: 0
+  DelayAfterAdPlayedForApplicationPause: 10
+  PauseIgnoreTime: 3
+  MinimumLevelForPauseCommercialBreak: 5
+  CanClick: 1
+  ClickResetTime: 1
+--- !u!114 &1850866895025666249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1850866895025666248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bda6c5d4a1783431a9879ec966a480b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AdsData:
+  - Type: 1
+    Ad_Type: 2
+    AndroidKey: ca-app-pub-8551107611166906/5618801998
+    IOSKey: ca-app-pub-8551107611166906/6005814806
+    MaxTriesToLoadAd: 5
+    DelayInNextTryToLoad: 10
+    CurrentTriesToLoadAd: 0
+    LoadingVariable: 0
+    TestAndroidKey: ca-app-pub-3940256099942544/1033173712
+    TestIOSKey: ca-app-pub-3940256099942544/4411468910
+  - Type: 2
+    Ad_Type: 1
+    AndroidKey: ca-app-pub-8551107611166906/2258141482
+    IOSKey: ca-app-pub-8551107611166906/3379651462
+    MaxTriesToLoadAd: 5
+    DelayInNextTryToLoad: 20
+    CurrentTriesToLoadAd: 0
+    LoadingVariable: 0
+    TestAndroidKey: ca-app-pub-3940256099942544/5224354917
+    TestIOSKey: ca-app-pub-3940256099942544/1712485313
+  - Type: 3
+    Ad_Type: 3
+    AndroidKey: ca-app-pub-8551107611166906/7284177771
+    IOSKey: ca-app-pub-8551107611166906/7109279340
+    MaxTriesToLoadAd: 5
+    DelayInNextTryToLoad: 10
+    CurrentTriesToLoadAd: 0
+    LoadingVariable: 0
+    TestAndroidKey: ca-app-pub-3940256099942544/6300978111
+    TestIOSKey: ca-app-pub-3940256099942544/2934735716
+  GDPR_UI: {fileID: 0}
+  CommercialBreakUI: {fileID: 0}
+  CommercialBreakDisplayTime: 1

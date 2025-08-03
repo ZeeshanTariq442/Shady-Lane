@@ -1,0 +1,870 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b9aaa4daee94f1488f114c0548e657b, type: 3}
+  m_Name: LevelsData
+  m_EditorClassIdentifier: 
+  levels:
+  - task:
+    - totalItems: 2
+      bottleColors: 0000000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 2
+      bottleColors: 0400000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 3
+      bottleColors: 000000000600000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 3
+      bottleColors: 010000000400000000000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    trails: 5
+    countdownTime: 4
+    itemsTurn: 40
+  - task:
+    - totalItems: 2
+      bottleColors: 0000000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 3
+      bottleColors: 040000000600000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 3
+      bottleColors: 040000000600000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 4
+      bottleColors: 00000000060000000300000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 4
+      bottleColors: 01000000040000000000000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    trails: 5
+    countdownTime: 5
+    itemsTurn: 50
+  - task:
+    - totalItems: 3
+      bottleColors: 000000000600000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 3
+      bottleColors: 010000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 3
+      bottleColors: 010000000400000000000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 4
+      bottleColors: 01000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 4
+      bottleColors: 00000000020000000400000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 5
+      bottleColors: 0000000002000000010000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    trails: 6
+    countdownTime: 6
+    itemsTurn: 60
+  - task:
+    - totalItems: 3
+      bottleColors: 000000000200000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 4
+      bottleColors: 01000000040000000000000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 4
+      bottleColors: 01000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 4
+      bottleColors: 00000000020000000400000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0000000002000000010000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0200000005000000010000000400000000000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0200000001000000050000000000000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    trails: 7
+    countdownTime: 7
+    itemsTurn: 70
+  - task:
+    - totalItems: 3
+      bottleColors: 040000000600000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 4
+      bottleColors: 04000000060000000500000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 4
+      bottleColors: 00000000060000000300000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 4
+      bottleColors: 01000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0100000004000000000000000600000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0000000004000000020000000600000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0000000002000000010000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 020000000500000001000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    trails: 8
+    countdownTime: 8
+    itemsTurn: 80
+  - task:
+    - totalItems: 4
+      bottleColors: 04000000060000000300000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 4
+      bottleColors: 00000000060000000300000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 4
+      bottleColors: 01000000040000000000000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0000000002000000040000000600000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0000000002000000010000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 5
+      bottleColors: 0200000005000000010000000400000000000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 020000000100000005000000000000000400000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 010000000500000002000000040000000000000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 050000000000000001000000020000000400000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    trails: 9
+    countdownTime: 9
+    itemsTurn: 90
+  - task:
+    - totalItems: 4
+      bottleColors: 04000000060000000300000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 4
+      bottleColors: 00000000060000000300000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 4
+      bottleColors: 01000000040000000000000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0100000004000000000000000600000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0000000002000000040000000600000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 5
+      bottleColors: 0000000002000000010000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 020000000500000001000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 020000000100000005000000000000000400000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 060000000500000004000000020000000000000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 050000000000000001000000020000000400000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    trails: 10
+    countdownTime: 10
+    itemsTurn: 100
+  - task:
+    - totalItems: 4
+      bottleColors: 01000000040000000000000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 4
+      bottleColors: 01000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0000000002000000040000000600000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 5
+      bottleColors: 0000000002000000010000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 5
+      bottleColors: 0200000005000000010000000400000000000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0200000001000000050000000000000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 6
+      bottleColors: 060000000500000002000000040000000000000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 6
+      bottleColors: 050000000000000001000000020000000400000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 6
+      bottleColors: 000000000100000002000000030000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 6
+      bottleColors: 000000000600000001000000020000000400000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 6
+      bottleColors: 010000000600000002000000000000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    trails: 11
+    countdownTime: 11
+    itemsTurn: 110
+  - task:
+    - totalItems: 3
+      bottleColors: 040000000600000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 3
+      bottleColors: 040000000600000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 4
+      bottleColors: 00000000060000000300000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 4
+      bottleColors: 01000000040000000000000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 5
+      bottleColors: 0100000004000000000000000600000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 5
+      bottleColors: 0000000002000000040000000600000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 5
+      bottleColors: 0000000002000000010000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 5
+      bottleColors: 0200000005000000010000000400000000000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 020000000600000005000000000000000400000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 010000000500000002000000040000000000000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 050000000000000001000000020000000400000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 000000000100000002000000030000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    trails: 12
+    countdownTime: 12
+    itemsTurn: 120
+  - task:
+    - totalItems: 3
+      bottleColors: 000000000500000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 3
+      bottleColors: 040000000600000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 4
+      bottleColors: 04000000060000000300000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 4
+      bottleColors: 00000000060000000300000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 4
+      bottleColors: 01000000040000000000000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 5
+      bottleColors: 0100000006000000000000000500000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 5
+      bottleColors: 0000000002000000040000000600000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0000000002000000010000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 6
+      bottleColors: 020000000500000001000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 020000000600000005000000000000000400000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 6
+      bottleColors: 060000000500000002000000040000000000000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 050000000000000001000000020000000400000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 00000000010000000200000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    trails: 13
+    countdownTime: 13
+    itemsTurn: 130
+  - task:
+    - totalItems: 4
+      bottleColors: 00000000020000000400000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 4
+      bottleColors: 04000000060000000300000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 4
+      bottleColors: 04000000060000000500000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0000000001000000030000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0100000004000000000000000600000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 5
+      bottleColors: 0100000004000000000000000600000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0000000002000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 6
+      bottleColors: 000000000200000001000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 6
+      bottleColors: 020000000500000001000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 020000000600000005000000000000000400000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 060000000500000002000000040000000000000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 05000000000000000100000002000000040000000300000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 00000000010000000200000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 7
+      bottleColors: 00000000060000000100000002000000040000000300000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    trails: 14
+    countdownTime: 14
+    itemsTurn: 140
+  - task:
+    - totalItems: 4
+      bottleColors: 00000000040000000300000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 4
+      bottleColors: 04000000060000000500000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 5
+      bottleColors: 0200000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0000000006000000030000000100000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 060000000400000003000000020000000100000000000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 6
+      bottleColors: 000000000100000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 6
+      bottleColors: 000000000200000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 6
+      bottleColors: 000000000200000005000000010000000400000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 6
+      bottleColors: 020000000500000001000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 020000000600000005000000000000000400000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 7
+      bottleColors: 01000000050000000200000004000000000000000300000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 7
+      bottleColors: 05000000000000000100000002000000040000000300000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 7
+      bottleColors: 00000000010000000200000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 7
+      bottleColors: 00000000060000000100000002000000040000000300000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 7
+      bottleColors: 01000000060000000200000000000000040000000500000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    trails: 15
+    countdownTime: 15
+    itemsTurn: 150
+  - task:
+    - totalItems: 4
+      bottleColors: 00000000020000000300000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 4
+      bottleColors: 04000000030000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 4
+      bottleColors: 04000000060000000200000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0000000006000000020000000100000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 5
+      bottleColors: 0100000004000000020000000500000000000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 5
+      bottleColors: 0100000004000000000000000600000002000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 5
+      bottleColors: 0000000002000000040000000100000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 6
+      bottleColors: 000000000200000001000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 6
+      bottleColors: 020000000500000001000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 6
+      bottleColors: 020000000100000005000000000000000400000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 6
+      bottleColors: 060000000500000002000000040000000000000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 7
+      bottleColors: 05000000000000000100000002000000040000000300000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 7
+      bottleColors: 00000000010000000200000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 3
+    - totalItems: 7
+      bottleColors: 00000000060000000100000002000000040000000300000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    - totalItems: 7
+      bottleColors: 01000000060000000200000000000000040000000500000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 2
+    trails: 15
+    countdownTime: 16
+    itemsTurn: 160
+  - task:
+    - totalItems: 5
+      bottleColors: 0000000003000000010000000200000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 5
+      bottleColors: 0400000003000000010000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0000000001000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0000000006000000030000000200000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 010000000400000005000000030000000200000000000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 6
+      bottleColors: 050000000400000000000000020000000100000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 6
+      bottleColors: 000000000200000004000000050000000100000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 6
+      bottleColors: 000000000200000001000000040000000500000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 020000000500000001000000040000000000000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 02000000030000000500000000000000040000000100000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 03000000050000000200000004000000000000000100000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 05000000000000000100000002000000040000000300000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 01000000060000000200000000000000040000000500000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 7
+      bottleColors: 00000000010000000200000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 7
+      bottleColors: 00000000060000000100000002000000040000000300000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    trails: 15
+    countdownTime: 17
+    itemsTurn: 180
+  - task:
+    - totalItems: 2
+      bottleColors: 0000000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 3
+      bottleColors: 000000000200000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 4
+      bottleColors: 00000000010000000200000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 5
+      bottleColors: 0000000001000000020000000300000004000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 5
+      bottleColors: 0100000002000000030000000400000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 5
+      bottleColors: 0200000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 000000000200000004000000060000000500000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 6
+      bottleColors: 000000000200000001000000040000000500000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 6
+      bottleColors: 020000000500000001000000040000000300000001000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    - totalItems: 7
+      bottleColors: 02000000010000000500000000000000040000000300000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 03000000050000000200000004000000000000000100000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 05000000000000000100000002000000040000000300000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 00000000010000000200000003000000040000000500000006000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 1
+    - totalItems: 7
+      bottleColors: 00000000060000000100000002000000040000000300000005000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 0
+    - totalItems: 7
+      bottleColors: 01000000060000000200000000000000040000000500000003000000
+      trail: 2
+      showWrongTurn: 1
+      ItemName: 4
+    trails: 15
+    countdownTime: 18
+    itemsTurn: 200

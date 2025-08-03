@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: ce355e89aaf55ad44b5c6fc0f7057baa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5198900789217242712
+    second: Time for commercial_0
+  - first:
+      213: 338108962948200693
+    second: Time for commercial_1
+  - first:
+      213: 4392264660334498265
+    second: Time for commercial_2
+  - first:
+      213: -3366366313366852072
+    second: Time for commercial_3
+  - first:
+      213: 4994205910432499823
+    second: Time for commercial_4
+  - first:
+      213: 6189088899326776604
+    second: Time for commercial_5
+  - first:
+      213: 64894346480530117
+    second: Time for commercial_6
+  - first:
+      213: 6339395207774411258
+    second: Time for commercial_7
+  - first:
+      213: -2094460998160283962
+    second: Time for commercial_8
+  - first:
+      213: 6955070501922997071
+    second: Time for commercial_9
+  - first:
+      213: 1816703799023413174
+    second: Time for commercial_10
+  - first:
+      213: -7065293107529558349
+    second: Time for commercial_11
+  - first:
+      213: 3324101325837404333
+    second: Time for commercial_12
+  - first:
+      213: -4544214161297238575
+    second: Time for commercial_13
+  - first:
+      213: -5224033814859533976
+    second: Time for commercial_14
+  - first:
+      213: -6441493025231172233
+    second: Time for commercial_15
+  - first:
+      213: 9189386913486398034
+    second: Time for commercial_16
+  - first:
+      213: -2206069771243701075
+    second: Time for commercial_17
+  - first:
+      213: 19753470577563261
+    second: Time for commercial_18
+  - first:
+      213: -2647662370520445693
+    second: Time for commercial_19
+  - first:
+      213: -8441159979381312583
+    second: Time for commercial_20
+  - first:
+      213: -7845524100389267467
+    second: Time for commercial_21
+  - first:
+      213: -2079798337114391068
+    second: Time for commercial_22
+  - first:
+      213: 3205592606116785251
+    second: Time for commercial_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Time for commercial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a15534f64bc9d7b0800000000000000
+      internalID: -5198900789217242712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 161
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f837e77f4431b400800000000000000
+      internalID: 338108962948200693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 109
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d15db6ff6574fc30800000000000000
+      internalID: 4392264660334498265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 161
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e6deb7ca34841d0800000000000000
+      internalID: -3366366313366852072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 110
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f684c7aa0dbfe4540800000000000000
+      internalID: 4994205910432499823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 110
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c159faf009f04e550800000000000000
+      internalID: 6189088899326776604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 111
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c237e5701d86e000800000000000000
+      internalID: 64894346480530117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 110
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9153a9a5e0af750800000000000000
+      internalID: 6339395207774411258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 110
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c60fb0b1dafee2e0800000000000000
+      internalID: -2094460998160283962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 111
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f430bee95cf558060800000000000000
+      internalID: 6955070501922997071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 110
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7a4eada7a363910800000000000000
+      internalID: 1816703799023413174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 110
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b65fab2a5903fd90800000000000000
+      internalID: -7065293107529558349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 111
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da881f34b84912e20800000000000000
+      internalID: 3324101325837404333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 111
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5149ceb45bfe0c0800000000000000
+      internalID: -4544214161297238575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 110
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8613baa6ce08087b0800000000000000
+      internalID: -5224033814859533976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 111
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d80f7d8383b96a0800000000000000
+      internalID: -6441493025231172233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_16
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 110
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252eaf9d5b2478f70800000000000000
+      internalID: 9189386913486398034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_17
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 110
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacba473b377261e0800000000000000
+      internalID: -2206069771243701075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_18
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 110
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d765bd44dad264000800000000000000
+      internalID: 19753470577563261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dc5f71a1d914bd0800000000000000
+      internalID: -2647662370520445693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3bbb0d8b9fada80800000000000000
+      internalID: -8441159979381312583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f71887e5691f1390800000000000000
+      internalID: -7845524100389267467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed39df7e621323e0800000000000000
+      internalID: -2079798337114391068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time for commercial_23
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca536cd7d8c7c20800000000000000
+      internalID: 3205592606116785251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Time for commercial_0: -5198900789217242712
+      Time for commercial_1: 338108962948200693
+      Time for commercial_10: 1816703799023413174
+      Time for commercial_11: -7065293107529558349
+      Time for commercial_12: 3324101325837404333
+      Time for commercial_13: -4544214161297238575
+      Time for commercial_14: -5224033814859533976
+      Time for commercial_15: -6441493025231172233
+      Time for commercial_16: 9189386913486398034
+      Time for commercial_17: -2206069771243701075
+      Time for commercial_18: 19753470577563261
+      Time for commercial_19: -2647662370520445693
+      Time for commercial_2: 4392264660334498265
+      Time for commercial_20: -8441159979381312583
+      Time for commercial_21: -7845524100389267467
+      Time for commercial_22: -2079798337114391068
+      Time for commercial_23: 3205592606116785251
+      Time for commercial_3: -3366366313366852072
+      Time for commercial_4: 4994205910432499823
+      Time for commercial_5: 6189088899326776604
+      Time for commercial_6: 64894346480530117
+      Time for commercial_7: 6339395207774411258
+      Time for commercial_8: -2094460998160283962
+      Time for commercial_9: 6955070501922997071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
